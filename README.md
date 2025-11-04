@@ -43,5 +43,5 @@ Ensure you have the following tools installed on your system:
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone git@github.com:kbobd3v/massive-whatsapp-sender.git
 cd massive

@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)![Docker](https://img.shields.io/badge/Docker-20.10%2B-blue?style=for-the-badge&logo=docker)![Shell](https://img.shields.io/badge/Shell-Bash-lightgrey?style=for-the-badge&logo=gnu-bash)
 
-A robust, production-ready system engineered to send bulk sequential messages (Text + Video) via the Evolution API. This project is the result of a deep forensic analysis, designed to be resilient, stable, and reliable, even when interacting with an inconsistent API.
+A robust, production-ready system engineered to send bulk sequential messages (Text + Video) via the Evolution API.
 
 ## Core Architecture Principles
 
